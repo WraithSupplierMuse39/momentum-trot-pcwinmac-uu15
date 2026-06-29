@@ -1,4 +1,4 @@
-# 
+# 精英 动量交易机器人 预设 for Mac OS | 专业 动量交易机器人 预设 for PC Windows. Featuring DEX流动性池 and 去中心化交易所API — optimized for maximum performance.
 
 
 
